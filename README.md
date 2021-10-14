@@ -7,3 +7,4 @@ Projeto de um app de receitas, feito em grupo, para a aprovação do módulo de 
 ## Como funciona?
 - npm install mo terminal do vscode;
 - npm start;
+- 
